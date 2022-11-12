@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "New York, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oRKl5eoAAAAJ&hl=en"
   email            : "kq2157@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -94,22 +94,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"https://www.facebook.com/qian.kun.395/"
+  facebook         : "qian.kun.395"
   foursquare       :
-  github           : #"https://github.com/qbetterk"
+  github           : "qbetterk"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kun-qian-6b01b113a/"
+  linkedin         : "kun-qian-6b01b113a/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/qbetterk"
+  twitter          : "qbetterk"
   vine             :
   weibo            :
   xing             :
