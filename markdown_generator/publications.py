@@ -63,7 +63,8 @@ def html_escape(text):
 
 import os
 for row, item in publications.iterrows():
-    
+    item.pub_date = "-".join(item.pub_date.split("/"))
+    item.url_slug = f"paper_{row}"
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
     year = item.pub_date[:4]
@@ -106,3 +107,5 @@ for row, item in publications.iterrows():
         f.write(md)
 
 
+
+# %%
