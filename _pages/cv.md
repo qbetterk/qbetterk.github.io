@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in Physics, Nanjing University, 2016
 * M.S. in ECE, Johns Hopkins University, 2018
+* Ph.D in CS, University of California, Davis, 2021 (transferred)
 * Ph.D in CS, Columbia University, 2024 (expected)
 
 Work experience

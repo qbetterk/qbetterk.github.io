@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-# twitter:
-#   username               : &qbetterk
+twitter:
+  username               : &qbetterk
 facebook:
   username               : #qian.kun.395
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kun Qian"
-  avatar           : "profile.png"
+  avatar           : "qk.png"
   bio              : "Ph.D. Student, Columbia University"
   location         : "New York, NY"
   employer         :
@@ -99,7 +99,7 @@ author:
   github           : "qbetterk"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "qbetterk"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "kun-qian-6b01b113a/"

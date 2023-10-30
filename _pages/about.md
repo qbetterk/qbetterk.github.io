@@ -12,5 +12,8 @@ redirect_from:
 Kun Qian is a Ph.D. candidate at Columbia University.
 
 ## News
-- 09/2023: Paper accepted in EMNLP 2023
+- 10/2023: Paper accepted in EMNLP 2023.
+- 09/2023: Paper accepted in AACL 2023.
+- 04/2023: Paper accepted in AIED 2023.
+- 02/2023: Paper accepted in EACL 2023.
 - 04/2022: Paper accepted in NAACL 2022.
