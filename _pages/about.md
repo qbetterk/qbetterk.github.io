@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-Kun Qian is a sixth-year Ph.D. candidate in the Department of Computer Science at Columbia University, working with [Zhou Yu](https://www.cs.columbia.edu/~zhouyu/). As a member of the [Natural Language Processing (NLP) Group](http://www.cs.columbia.edu/nlp/people.cgi), he mainly focuses on natural language generation and conversational AI. Particularly, he is interested in building task-oriented dialogue systems with limited resources. 
+I am a sixth-year Ph.D. candidate in the Department of Computer Science at Columbia University, working with [Zhou Yu](https://www.cs.columbia.edu/~zhouyu/). I am also a member of the [Natural Language Processing (NLP) Group](http://www.cs.columbia.edu/nlp/people.cgi). My research mainly focuses on natural language generation and conversational AI. Particularly, I am interested in building task-oriented dialogue systems with limited resources. 
 
-Prior to Columbia University, he received his B.S. in Physics from Nanjing University and M.S. in Electrial and Computer Engineering from Johns Hopkins University, working with Prof. [Sanjeev Khudanpur](https://www.clsp.jhu.edu/faculty-pages/sanjeev/) and Prof. [Daniel Povey](https://www.danielpovey.com/).
+Prior to Columbia University, I received my B.S. in Physics from Nanjing University and M.S. in Electrial and Computer Engineering from Johns Hopkins University, working with Prof. [Sanjeev Khudanpur](https://www.clsp.jhu.edu/faculty-pages/sanjeev/) and Prof. [Daniel Povey](https://www.danielpovey.com/).
 
 For more details, please see my full [CV](https://qbetterk.github.io/cv/).
 
