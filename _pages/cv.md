@@ -63,10 +63,37 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+* COMS 4705 Natural Language Processing, Columbia University			Spring 2022	
+  * Instructor: Zhou Yu
+* COMSW 4156 Advanced Software Engineering, Columbia University		Fall 2021
+  * Instructor: Gail Kaiser
+* ECS 189 Natural Language Processing, University of California, Davis		Spring 2019
+  * Instructor: Zhou Yu
+* EN.520.435/635 Digital Signal Processing, Johns Hopkins University		Fall 2017	
+  * Instructor: Howard Weinert
+
   
-Service and leadership
+Professional Services
 ======
-* Currently signed in to 43 different slack teams
+Peer-Reviewer/Program Committee
+
+* AAAI: 2020, 2021
+* ACL: 2020, 2021
+* ACL ARR: 2021, 2022, 2023
+* CIKM: 2023
+* DialDOC@ACL: 2022, 2023
+* EACL: 2023
+* EMNLP: 2020
+* ICASSP: 2023, 2024
+* LREC 2024
+* NAACL: 2021
+* SIGDIAL: 2019, 2021, 2022, 2023
+
+Department Service
+
+* 2022 Columbia University, CS: Admission Committee Member for the Master Program
+* 2023 Columbia University, CS: Admission Committee Member for the Master Program
+
