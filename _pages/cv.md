@@ -49,12 +49,12 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -89,7 +89,7 @@ Peer-Reviewer/Program Committee
 * EMNLP: 2020
 * ICASSP: 2023, 2024
 * LREC 2024
-* NAACL: 2021
+* NAACL: 2021, 2023, 2024
 * SIGDIAL: 2019, 2021, 2022, 2023
 
 Department Service
