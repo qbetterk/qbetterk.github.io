@@ -9,15 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Physics, Nanjing University, 2016
-* M.S. in ECE, Johns Hopkins University, 2018
-* Ph.D in CS, University of California, Davis, 2021 (transferred)
-* Ph.D in CS, Columbia University, 2024 (expected)
 
 Work experience
 ======
+* 2024 - present: Machine Learning Engineer
+  * Apple
+  * Supervisor: Tianyi Zhang
 
 * Summer 2023: Research Intern
   * Salesforce
@@ -39,6 +36,12 @@ Work experience
   * University of California, Davis
   * Supervisor: Zhou Yu
 
+Education
+======
+* B.S. in Physics, Nanjing University, 2016
+* M.S. in ECE, Johns Hopkins University, 2018
+* Ph.D in CS, University of California, Davis, 2021 (transferred)
+* Ph.D in CS, Columbia University, 2024
 
 <!-- Skills
 ======
@@ -81,16 +84,19 @@ Professional Services
 Peer-Reviewer/Program Committee
 
 * AAAI: 2020, 2021
-* ACL: 2020, 2021
-* ACL ARR: 2021, 2022, 2023
-* CIKM: 2023
-* DialDOC@ACL: 2022, 2023
+* ACL: 2020, 2021, 2022, 2023, 2024
+* ACL ARR: 2021, 2022, 2023, 2024
+* AIED: 2023, 2024
+* CIKM: 2023, 2024
+* COLING: 2024
 * EACL: 2023
-* EMNLP: 2020
+* EMNLP: 2020, 2024
 * ICASSP: 2023, 2024
-* LREC 2024
+* LREC: 2024
 * NAACL: 2021, 2023, 2024
-* SIGDIAL: 2019, 2021, 2022, 2023
+* Neurips: 2024
+* SIGDIAL: 2019, 2021, 2022, 2023, 2024
+
 
 Department Service
 
