@@ -21,6 +21,7 @@ For more details, please see my full [CV](https://qbetterk.github.io/cv/).
 - 09/2024: Paper [VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation](https://arxiv.org/pdf/2406.17681?) accepted in EMNLP 2024 Findings.
 - 08/2024: I have passed my PhD Dissertation Defense [Constructing Task-Oriented Dialogue Systems with Limited Resources](https://www.proquest.com/docview/3107322111?pq-origsite=gscholar&fromopenview=true).
 - 01/2024: Paper [DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI](https://arxiv.org/abs/2307.10172) accepted in EACL 2024.
+
 <!-- - 10/2023: Paper [KRLS: Improving End-to-End Response Generation in Task Oriented Dialog with Reinforced Keywords Learning](https://arxiv.org/abs/2211.16773) accepted in EMNLP 2023.
 - 09/2023: Paper [Learning a better initialization for soft prompts via meta-learning](https://arxiv.org/abs/2205.12471) accepted in AACL 2023.
 - 07/2023: Paper [Enhancing Performance on Seen and Unseen Dialogue Scenarios using Retrieval-Augmented End-to-End Task-Oriented System](https://arxiv.org/abs/2308.08169) accepted in SIGDIAL 2023.
