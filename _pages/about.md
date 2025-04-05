@@ -15,7 +15,8 @@ I am a Machine Learning Engineer at Apple/AIML, where I primarily focus on query
 For more details, please see my full [CV](https://qbetterk.github.io/cv/).
 
 ## News
-- 11/2024: I will attend EMNLP 2024 in Miami, happy to meet and chat!
+- 04/2024: I will attend NAACL 2025 in Albuquerque, New Mexico, happy to meet and chat!
+- 01/2025: Paper [Bottom-Up Synthesis of Knowledge-Grounded Task-Oriented Dialogues with Iteratively Self-Refined Prompts]() accepted in NAACL 2025.
 - 09/2024: Paper [Consent in crisis: The rapid decline of the ai data commons](https://arxiv.org/pdf/2407.14933) accepted in Neurips 2024 (Datasets and Benchmarks Track).
 - 09/2024: Paper [DECOR: Improving Coherence in L2 English Writing with a Novel Benchmark for Incoherence Detection, Reasoning, and Rewriting](https://arxiv.org/pdf/2406.19650) accepted in EMNLP 2024.
 - 09/2024: Paper [VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation](https://arxiv.org/pdf/2406.17681?) accepted in EMNLP 2024 Findings.
